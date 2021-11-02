@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<manifest filename="D:\GarminConnectIQ\FieldTimerEvents\manifest.xml"/>
+<pcToLineNum>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="1" lineNum="28" parent="globals/FieldTimerEventsView" pc="268435456" symbol="initialize"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="1" lineNum="30" parent="globals/FieldTimerEventsView" pc="268435460" symbol="initialize"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="1" lineNum="32" parent="globals/FieldTimerEventsView" pc="268435478" symbol="initialize"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="1" lineNum="37" parent="globals/FieldTimerEventsView" pc="268435495" symbol="initialize"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="1" lineNum="38" parent="globals/FieldTimerEventsView" pc="268435502" symbol="initialize"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="1" lineNum="39" parent="globals/FieldTimerEventsView" pc="268435512" symbol="initialize"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="1" lineNum="40" parent="globals/FieldTimerEventsView" pc="268435519" symbol="initialize"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="1" lineNum="41" parent="globals/FieldTimerEventsView" pc="268435530" symbol="initialize"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="2" lineNum="48" parent="globals/FieldTimerEventsView" pc="268435553" symbol="onTimerLap"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="2" lineNum="49" parent="globals/FieldTimerEventsView" pc="268435557" symbol="onTimerLap"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="3" lineNum="53" parent="globals/FieldTimerEventsView" pc="268435577" symbol="onWorkoutStepComplete"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="3" lineNum="54" parent="globals/FieldTimerEventsView" pc="268435581" symbol="onWorkoutStepComplete"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="4" lineNum="58" parent="globals/FieldTimerEventsView" pc="268435601" symbol="onNextMultisportLeg"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="4" lineNum="59" parent="globals/FieldTimerEventsView" pc="268435605" symbol="onNextMultisportLeg"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="5" lineNum="63" parent="globals/FieldTimerEventsView" pc="268435619" symbol="onTimerStart"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="5" lineNum="64" parent="globals/FieldTimerEventsView" pc="268435623" symbol="onTimerStart"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="6" lineNum="68" parent="globals/FieldTimerEventsView" pc="268435640" symbol="onTimerStop"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="6" lineNum="69" parent="globals/FieldTimerEventsView" pc="268435644" symbol="onTimerStop"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="6" lineNum="70" parent="globals/FieldTimerEventsView" pc="268435669" symbol="onTimerStop"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="7" lineNum="74" parent="globals/FieldTimerEventsView" pc="268435686" symbol="onTimerPause"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="7" lineNum="75" parent="globals/FieldTimerEventsView" pc="268435690" symbol="onTimerPause"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="8" lineNum="79" parent="globals/FieldTimerEventsView" pc="268435707" symbol="onTimerResume"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="8" lineNum="80" parent="globals/FieldTimerEventsView" pc="268435711" symbol="onTimerResume"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="9" lineNum="84" parent="globals/FieldTimerEventsView" pc="268435728" symbol="onTimerReset"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="9" lineNum="86" parent="globals/FieldTimerEventsView" pc="268435732" symbol="onTimerReset"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="9" lineNum="87" parent="globals/FieldTimerEventsView" pc="268435748" symbol="onTimerReset"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="9" lineNum="88" parent="globals/FieldTimerEventsView" pc="268435761" symbol="onTimerReset"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="10" lineNum="94" parent="globals/FieldTimerEventsView" pc="268435793" symbol="compute"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="10" lineNum="95" parent="globals/FieldTimerEventsView" pc="268435797" symbol="compute"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="10" lineNum="96" parent="globals/FieldTimerEventsView" pc="268435817" symbol="compute"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="10" lineNum="97" parent="globals/FieldTimerEventsView" pc="268435843" symbol="compute"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="11" lineNum="103" parent="globals/FieldTimerEventsView" pc="268435860" symbol="onUpdate"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="11" lineNum="106" parent="globals/FieldTimerEventsView" pc="268435864" symbol="onUpdate"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="11" lineNum="107" parent="globals/FieldTimerEventsView" pc="268435885" symbol="onUpdate"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="11" lineNum="110" parent="globals/FieldTimerEventsView" pc="268435899" symbol="onUpdate"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="11" lineNum="111" parent="globals/FieldTimerEventsView" pc="268435912" symbol="onUpdate"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="11" lineNum="112" parent="globals/FieldTimerEventsView" pc="268435929" symbol="onUpdate"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="11" lineNum="113" parent="globals/FieldTimerEventsView" pc="268435949" symbol="onUpdate"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="11" lineNum="114" parent="globals/FieldTimerEventsView" pc="268435966" symbol="onUpdate"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="11" lineNum="115" parent="globals/FieldTimerEventsView" pc="268435986" symbol="onUpdate"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="11" lineNum="118" parent="globals/FieldTimerEventsView" pc="268436003" symbol="onUpdate"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="11" lineNum="119" parent="globals/FieldTimerEventsView" pc="268436029" symbol="onUpdate"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="11" lineNum="122" parent="globals/FieldTimerEventsView" pc="268436041" symbol="onUpdate"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="11" lineNum="125" parent="globals/FieldTimerEventsView" pc="268436074" symbol="onUpdate"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="11" lineNum="130" parent="globals/FieldTimerEventsView" pc="268436162" symbol="onUpdate"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="11" lineNum="131" parent="globals/FieldTimerEventsView" pc="268436198" symbol="onUpdate"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="11" lineNum="133" parent="globals/FieldTimerEventsView" pc="268436210" symbol="onUpdate"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="11" lineNum="134" parent="globals/FieldTimerEventsView" pc="268436217" symbol="onUpdate"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="12" lineNum="13" parent="globals/FieldTimerEventsView" pc="268436432" symbol="&lt;init&gt;"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="12" lineNum="24" parent="globals/FieldTimerEventsView" pc="268436450" symbol="&lt;init&gt;"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsView.mc" id="12" lineNum="13" parent="globals/FieldTimerEventsView" pc="268436432" symbol="&lt;init&gt;"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsApp.mc" id="14" lineNum="16" parent="globals/FieldTimerEventsApp" pc="268436303" symbol="initialize"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsApp.mc" id="14" lineNum="17" parent="globals/FieldTimerEventsApp" pc="268436307" symbol="initialize"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsApp.mc" id="15" lineNum="22" parent="globals/FieldTimerEventsApp" pc="268436326" symbol="onStart"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsApp.mc" id="16" lineNum="27" parent="globals/FieldTimerEventsApp" pc="268436331" symbol="onStop"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsApp.mc" id="17" lineNum="32" parent="globals/FieldTimerEventsApp" pc="268436336" symbol="getInitialView"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsApp.mc" id="17" lineNum="33" parent="globals/FieldTimerEventsApp" pc="268436340" symbol="getInitialView"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsApp.mc" id="18" lineNum="13" parent="globals/FieldTimerEventsApp" pc="268436383" symbol="&lt;init&gt;"/>
+<entry filename="D:\\GarminConnectIQ\\FieldTimerEvents\\source\\FieldTimerEventsApp.mc" id="18" lineNum="13" parent="globals/FieldTimerEventsApp" pc="268436383" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="20" lineNum="2" parent="globals/Rez/Drawables" pc="268436426" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="21" lineNum="6" parent="globals/Rez/Fonts" pc="268436428" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="22" lineNum="8" parent="globals/Rez/JsonData" pc="268436430" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="23" lineNum="10" parent="globals/Rez/Layouts" pc="268436429" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="24" lineNum="12" parent="globals/Rez/Menus" pc="268436427" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="25" lineNum="14" parent="globals/Rez/Strings" pc="268436431" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="26" lineNum="1" parent="globals/Rez" pc="268436402" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="26" lineNum="1" parent="globals/Rez" pc="268436402" symbol="&lt;init&gt;"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="9" object="true" symbol="FieldTimerEventsView"/>
+<entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+<entry id="4" module="true" symbol="globals/Rez/Menus"/>
+<entry id="8389748" method="true" symbol="onTimerStop"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8389747" method="true" symbol="onTimerStart"/>
+<entry field="true" id="14" symbol="AppName"/>
+<entry id="8389749" method="true" symbol="onTimerPause"/>
+<entry id="8" module="true" symbol="globals/Rez/Strings"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8388631" module="true" symbol="Activity"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="2" module="true" symbol="globals/Rez"/>
+<entry field="true" id="18" symbol="&lt;globals/FieldTimerEventsView/&lt;&gt;_lapNumber&gt;"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="17" symbol="&lt;globals/FieldTimerEventsView/&lt;&gt;STATE_RUNNING&gt;"/>
+<entry field="true" id="21" symbol="&lt;globals/FieldTimerEventsView/&lt;&gt;_lapCertainty&gt;"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry field="true" id="19" symbol="&lt;globals/FieldTimerEventsView/&lt;&gt;_currentDistance&gt;"/>
+<entry id="12" module="true" symbol="Menus"/>
+<entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+<entry id="10" object="true" symbol="FieldTimerEventsApp"/>
+<entry field="true" id="16" symbol="&lt;globals/FieldTimerEventsView/&lt;&gt;STATE_PAUSED&gt;"/>
+<entry id="8389137" method="true" symbol="compute"/>
+<entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+<entry id="8390685" method="true" symbol="onWorkoutStepComplete"/>
+<entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+<entry id="8389752" method="true" symbol="onTimerReset"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8390686" method="true" symbol="onNextMultisportLeg"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry id="8388610" symbol="statics"/>
+<entry id="8389350" module="true" symbol="globals"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389751" method="true" symbol="onTimerLap"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="20" symbol="&lt;globals/FieldTimerEventsView/&lt;&gt;_timerState&gt;"/>
+<entry id="11" module="true" symbol="Layouts"/>
+<entry id="8389750" method="true" symbol="onTimerResume"/>
+<entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+<entry id="8388635" module="true" symbol="Application"/>
+<entry field="true" id="15" symbol="&lt;globals/FieldTimerEventsView/&lt;&gt;STATE_STOPPED&gt;"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435548" name="timerTime" stackId="2" startPc="268435502"/>
+<entry endPc="268435551" name="info" stackId="1" startPc="268435460"/>
+<entry arg="true" endPc="268435859" name="info" stackId="1" startPc="268435793"/>
+<entry endPc="268436158" name="dataColor" stackId="2" startPc="268435885"/>
+<entry endPc="268436158" name="lapString" stackId="3" startPc="268435885"/>
+<entry endPc="268436301" name="message" stackId="4" startPc="268436162"/>
+<entry arg="true" endPc="268436302" name="dc" stackId="1" startPc="268435860"/>
+<entry arg="true" endPc="268436330" name="state" stackId="1" startPc="268436326"/>
+<entry arg="true" endPc="268436335" name="state" stackId="1" startPc="268436331"/>
+</localVars>
+<annotations>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+</annotations>
+<dataEntryOffsetMappings>
+<dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry label="globals/FieldTimerEventsApp" offset="150" parentId="globals" symbolId="FieldTimerEventsApp" type="class"/>
+<dataEntry label="globals/Rez" offset="221" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/Rez/Drawables" offset="300" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Menus" offset="339" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry label="globals/Rez/Fonts" offset="370" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry label="globals/Rez/Layouts" offset="401" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/Rez/JsonData" offset="432" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="463" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry label="globals/FieldTimerEventsView" offset="502" parentId="globals" symbolId="FieldTimerEventsView" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" endPc="268435552" name="initialize" parent="FieldTimerEventsView" startPc="268435456">
+<documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435576" name="onTimerLap" parent="FieldTimerEventsView" startPc="268435553">
+<documentation><![CDATA[<div class="description"> This is called each time a lap is created, so increment the lap number.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435600" name="onWorkoutStepComplete" parent="FieldTimerEventsView" startPc="268435577">
+<documentation><![CDATA[<div class="description"> This is called each time a Workout Step finishes, so increment the lap number.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435618" name="onNextMultisportLeg" parent="FieldTimerEventsView" startPc="268435601">
+<documentation><![CDATA[<div class="description"> This is called each time a Multisport activity advances to the next leg. Reset the laps<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435639" name="onTimerStart" parent="FieldTimerEventsView" startPc="268435619">
+<documentation><![CDATA[<div class="description"> The timer was started, so set the state to running.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435685" name="onTimerStop" parent="FieldTimerEventsView" startPc="268435640">
+<documentation><![CDATA[<div class="description"> The timer was stopped, so set the state to stopped.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435706" name="onTimerPause" parent="FieldTimerEventsView" startPc="268435686">
+<documentation><![CDATA[<div class="description"> The timer was started, so set the state to running.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435727" name="onTimerResume" parent="FieldTimerEventsView" startPc="268435707">
+<documentation><![CDATA[<div class="description"> The timer was stopped, so set the state to stopped.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435792" name="onTimerReset" parent="FieldTimerEventsView" startPc="268435728">
+<documentation><![CDATA[<div class="description"> The timer was reset, so reset all our tracking variables<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435859" name="compute" parent="FieldTimerEventsView" startPc="268435793">
+<param id="info"/>
+<documentation><![CDATA[<div class="description"> The given info object contains all the current workout<br/> information. Calculate a value and save it locally in this method.<br/> <div class="param"> info Activity.Info object</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436302" name="onUpdate" parent="FieldTimerEventsView" startPc="268435860">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Display the value you computed here. This will be called<br/> once a second when the data field is visible.<br/> <div class="param"> dc Device Context</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436466" name="&lt;init&gt;" parent="FieldTimerEventsView" startPc="268436432">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436325" name="initialize" parent="FieldTimerEventsApp" startPc="268436303">
+<documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436330" name="onStart" parent="FieldTimerEventsApp" startPc="268436326">
+<param id="state"/>
+<documentation><![CDATA[<div class="description"> Handle app startup<br/> <div class="param"> state Startup arguments</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436335" name="onStop" parent="FieldTimerEventsApp" startPc="268436331">
+<param id="state"/>
+<documentation><![CDATA[<div class="description"> Handle app shutdown<br/> <div class="param"> state Shutdown arguments</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436381" name="getInitialView" parent="FieldTimerEventsApp" startPc="268436336">
+<documentation><![CDATA[<div class="description"> Return the initial view for the app<br/> <div class="returns">Returns  Array of initial view</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436401" name="&lt;init&gt;" parent="FieldTimerEventsApp" startPc="268436383">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436426" name="&lt;init&gt;" parent="Drawables" startPc="268436426">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436428" name="&lt;init&gt;" parent="Fonts" startPc="268436428">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436430" name="&lt;init&gt;" parent="JsonData" startPc="268436430">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436429" name="&lt;init&gt;" parent="Layouts" startPc="268436429">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436427" name="&lt;init&gt;" parent="Menus" startPc="268436427">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436431" name="&lt;init&gt;" parent="Strings" startPc="268436431">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436425" name="&lt;init&gt;" parent="Rez" startPc="268436402">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
